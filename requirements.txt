@@ -5,3 +5,8 @@ yagmail
 pandas
 openpyxl
 fpdf
+pymupdf
+frontend
+static
+tabula-py
+jpype1
