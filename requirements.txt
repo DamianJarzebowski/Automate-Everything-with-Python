@@ -3,3 +3,5 @@ Flask
 bs4
 yagmail
 pandas
+openpyxl
+fpdf
